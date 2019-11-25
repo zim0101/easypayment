@@ -1,0 +1,20 @@
+{
+    "name": "PayWayDev/easyPayment",
+    "description": "Easily integrate many payment gateway",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zim",
+            "email": "cybertronix.4406@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "PayWayDev\\EasyPayment\\": "packages/payWayDev/easyPayment/src/"
+        }
+    }
+}
